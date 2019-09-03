@@ -1,5 +1,5 @@
 Windows Registry Editor Version 5.00
-;å…ˆåˆ é™?
+;ÏÈÉ¾³ýµô
 [-HKEY_CLASSES_ROOT\*\shell\VSCode]
 [-HKEY_CLASSES_ROOT\*\shell\VSCode\command]
 [-HKEY_CLASSES_ROOT\Directory\shell\VSCode]
